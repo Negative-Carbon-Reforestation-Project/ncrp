@@ -1,0 +1,6 @@
+[submodule "severless-backend"]
+	path = severless-backend
+	url = git@github.com:Negative-Carbon-Reforestation-Project/severless-backend.git
+[submodule "serverless-frontend"]
+	path = serverless-frontend
+	url = git@github.com:Negative-Carbon-Reforestation-Project/serverless-frontend.git
